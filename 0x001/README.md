@@ -1,5 +1,9 @@
 # info
 
+CPU:4 Intel(R) Core(TM) i5-4590 CPU @ 3.30GHz
+MEM:8GB
+OS: Linux
+
 # test result
 
 case 1: /home
