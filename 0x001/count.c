@@ -1,5 +1,9 @@
-#include <bits/stdc++.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <time.h>
 #include <dirent.h>
+
 long long EP = 0;
 long long count(char *path) {
     DIR *dir_ptr = NULL;
